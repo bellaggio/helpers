@@ -1,7 +1,5 @@
 <?php
 
-namespace Usuario\Library;
-
 class FactoryGrid {
 
     protected static $_headerString;

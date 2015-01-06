@@ -1,7 +1,5 @@
 <?php
 
-namespace Usuario\Library;
-
 /*
  * FactoryForm = Cria campos de formulário de forma dinamica e acrescenta valores caso exista
  * v1.0
